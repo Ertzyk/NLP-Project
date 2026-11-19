@@ -1,0 +1,78 @@
+{
+  "nouns": {
+    "agents": [
+      "teacher", "student", "doctor", "nurse", "artist",
+      "writer", "chef", "driver", "pilot", "painter",
+      "singer", "actor", "engineer", "scientist", "lawyer",
+      "farmer", "baker", "guard", "soldier", "captain",
+      "judge", "athlete", "runner", "musician", "builder",
+      "mechanic", "librarian", "neighbor", "friend", "guest",
+      "visitor", "traveler", "hunter", "gardener", "photographer"
+    ],
+    "objects": [
+      "book", "letter", "apple", "orange", "cake",
+      "sandwich", "meal", "table", "chair", "lamp",
+      "window", "door", "key", "bag", "coat",
+      "hat", "shoe", "watch", "phone", "camera",
+      "laptop", "car", "bicycle", "train", "boat",
+      "house", "room", "garden", "bridge", "road",
+      "painting", "statue", "poem", "song", "movie",
+      "guitar", "piano", "ball", "toy", "gift",
+      "box", "bottle", "cup", "plate", "knife",
+      "mirror", "clock", "map", "newspaper", "magazine",
+      "flower", "tree", "stone", "coin", "ring",
+      "ticket", "passport", "umbrella", "envelope", "notebook",
+      "pencil", "brush", "hammer", "tool", "machine"
+    ]
+  },
+  "verbs": {
+    "transitive": [
+      "read", "write", "buy", "sell", "build",
+      "break", "fix", "clean", "paint", "draw",
+      "hold", "carry", "open", "close", "find",
+      "lose", "keep", "take", "bring", "send",
+      "receive", "check", "inspect", "repair", "design",
+      "create", "destroy", "move", "lift", "push",
+      "pull", "drop", "catch", "throw", "hide",
+      "show", "watch", "examine", "measure", "weigh",
+      "pack", "unpack", "wrap", "borrow", "lend",
+      "return", "replace", "collect", "store", "polish",
+      "wash", "dry", "fold", "cut", "lock",
+      "unlock", "touch", "admire", "choose", "accept"
+    ],
+    "intransitive": [
+      "sleep", "walk", "run", "jump", "sit",
+      "stand", "laugh", "smile", "cry", "arrive",
+      "depart", "wait", "rest", "travel", "swim",
+      "fall", "rise", "dance", "sing", "grow",
+      "listen", "pause", "hurry", "whisper", "shout"
+    ],
+    "reflexive": [
+      "protect", "defend", "prepare", "introduce", "remind",
+      "blame", "praise", "teach", "hurt", "enjoy",
+      "express", "calm", "challenge", "excuse", "forgive"
+    ]
+  },
+  "adjectives": [
+    "big", "small", "tall", "short", "long",
+    "wide", "narrow", "heavy", "light", "thick",
+    "thin", "deep", "flat", "round", "sharp",
+    "soft", "hard", "smooth", "rough", "clean",
+    "dirty", "dry", "wet", "warm", "cold",
+    "hot", "cool", "bright", "dark", "clear",
+    "red", "blue", "green", "yellow", "black",
+    "white", "brown", "gray", "golden", "silver",
+    "old", "new", "young", "ancient", "modern",
+    "fresh", "fast", "slow", "quick", "quiet",
+    "loud", "calm", "busy", "lazy", "active",
+    "strong", "weak", "brave", "shy", "proud",
+    "kind", "polite", "honest", "smart", "wise",
+    "clever", "curious", "patient", "careful", "cheerful",
+    "happy", "sad", "angry", "tired", "eager",
+    "rich", "poor", "famous", "local", "foreign",
+    "simple", "complex", "easy", "useful", "rare",
+    "common", "strange", "familiar", "ordinary", "special",
+    "cheap", "expensive", "wooden", "metal", "plastic",
+    "fragile", "sturdy", "empty", "full", "elegant"
+  ]
+}

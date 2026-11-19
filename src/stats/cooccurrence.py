@@ -1,11 +1,11 @@
 import csv
-import os
+from pathlib import Path
 from collections import defaultdict
 
 
 def extract_top_neighbors(sentences: list[list[str]], top_n: int = 100, output_path: str = "data/top_100_neighbors.csv") -> list[tuple[int, str, int]]:
     """Counts unique adjacent words within sentences and saves the top_n to CSV."""
-    os.makedirs(os.path.dirname(output_path), exist_ok = True)
+    Path(output_path).parent.mkdir(parents = True, exist_ok = True)
     neighbors: dict[str, set[str]] = defaultdict(set)
 
     for sentence in sentences:

@@ -1,0 +1,138 @@
+=== FULL ENGLISH TENSE / MOOD / VOICE PARADIGM ===
+Base SVO: (the young writer) + [write] + (his new book)
+
+--- ACTIVE VOICE ---
+[Past Simple]
+  declarative   : The young writer wrote his new book.
+  negative      : The young writer did not write his new book.
+  interrogative : Did the young writer write his new book?
+[Past Continuous]
+  declarative   : The young writer was writing his new book.
+  negative      : The young writer was not writing his new book.
+  interrogative : Was the young writer writing his new book?
+[Past Perfect]
+  declarative   : The young writer had written his new book.
+  negative      : The young writer had not written his new book.
+  interrogative : Had the young writer written his new book?
+[Past Perfect Continuous]
+  declarative   : The young writer had been writing his new book.
+  negative      : The young writer had not been writing his new book.
+  interrogative : Had the young writer been writing his new book?
+[Present Simple]
+  declarative   : The young writer writes his new book.
+  negative      : The young writer does not write his new book.
+  interrogative : Does the young writer write his new book?
+[Present Continuous]
+  declarative   : The young writer is writing his new book.
+  negative      : The young writer is not writing his new book.
+  interrogative : Is the young writer writing his new book?
+[Present Perfect]
+  declarative   : The young writer has written his new book.
+  negative      : The young writer has not written his new book.
+  interrogative : Has the young writer written his new book?
+[Present Perfect Continuous]
+  declarative   : The young writer has been writing his new book.
+  negative      : The young writer has not been writing his new book.
+  interrogative : Has the young writer been writing his new book?
+[Future Simple]
+  declarative   : The young writer will write his new book.
+  negative      : The young writer will not write his new book.
+  interrogative : Will the young writer write his new book?
+[Future Continuous]
+  declarative   : The young writer will be writing his new book.
+  negative      : The young writer will not be writing his new book.
+  interrogative : Will the young writer be writing his new book?
+[Future Perfect]
+  declarative   : The young writer will have written his new book.
+  negative      : The young writer will not have written his new book.
+  interrogative : Will the young writer have written his new book?
+[Future Perfect Continuous]
+  declarative   : The young writer will have been writing his new book.
+  negative      : The young writer will not have been writing his new book.
+  interrogative : Will the young writer have been writing his new book?
+[Conditional Simple]
+  declarative   : The young writer would write his new book.
+  negative      : The young writer would not write his new book.
+  interrogative : Would the young writer write his new book?
+[Conditional Continuous]
+  declarative   : The young writer would be writing his new book.
+  negative      : The young writer would not be writing his new book.
+  interrogative : Would the young writer be writing his new book?
+[Conditional Perfect]
+  declarative   : The young writer would have written his new book.
+  negative      : The young writer would not have written his new book.
+  interrogative : Would the young writer have written his new book?
+[Conditional Perfect Continuous]
+  declarative   : The young writer would have been writing his new book.
+  negative      : The young writer would not have been writing his new book.
+  interrogative : Would the young writer have been writing his new book?
+  imperative          : Write his new book!
+  imperative_negative : Do not write his new book!
+
+--- PASSIVE VOICE ---
+[Past Simple]
+  declarative   : His new book was written by the young writer.
+  negative      : His new book was not written by the young writer.
+  interrogative : Was his new book written by the young writer?
+[Past Continuous]
+  declarative   : His new book was being written by the young writer.
+  negative      : His new book was not being written by the young writer.
+  interrogative : Was his new book being written by the young writer?
+[Past Perfect]
+  declarative   : His new book had been written by the young writer.
+  negative      : His new book had not been written by the young writer.
+  interrogative : Had his new book been written by the young writer?
+[Past Perfect Continuous]
+  declarative   : His new book had been being written by the young writer.
+  negative      : His new book had not been being written by the young writer.
+  interrogative : Had his new book been being written by the young writer?
+[Present Simple]
+  declarative   : His new book is written by the young writer.
+  negative      : His new book is not written by the young writer.
+  interrogative : Is his new book written by the young writer?
+[Present Continuous]
+  declarative   : His new book is being written by the young writer.
+  negative      : His new book is not being written by the young writer.
+  interrogative : Is his new book being written by the young writer?
+[Present Perfect]
+  declarative   : His new book has been written by the young writer.
+  negative      : His new book has not been written by the young writer.
+  interrogative : Has his new book been written by the young writer?
+[Present Perfect Continuous]
+  declarative   : His new book has been being written by the young writer.
+  negative      : His new book has not been being written by the young writer.
+  interrogative : Has his new book been being written by the young writer?
+[Future Simple]
+  declarative   : His new book will be written by the young writer.
+  negative      : His new book will not be written by the young writer.
+  interrogative : Will his new book be written by the young writer?
+[Future Continuous]
+  declarative   : His new book will be being written by the young writer.
+  negative      : His new book will not be being written by the young writer.
+  interrogative : Will his new book be being written by the young writer?
+[Future Perfect]
+  declarative   : His new book will have been written by the young writer.
+  negative      : His new book will not have been written by the young writer.
+  interrogative : Will his new book have been written by the young writer?
+[Future Perfect Continuous]
+  declarative   : His new book will have been being written by the young writer.
+  negative      : His new book will not have been being written by the young writer.
+  interrogative : Will his new book have been being written by the young writer?
+[Conditional Simple]
+  declarative   : His new book would be written by the young writer.
+  negative      : His new book would not be written by the young writer.
+  interrogative : Would his new book be written by the young writer?
+[Conditional Continuous]
+  declarative   : His new book would be being written by the young writer.
+  negative      : His new book would not be being written by the young writer.
+  interrogative : Would his new book be being written by the young writer?
+[Conditional Perfect]
+  declarative   : His new book would have been written by the young writer.
+  negative      : His new book would not have been written by the young writer.
+  interrogative : Would his new book have been written by the young writer?
+[Conditional Perfect Continuous]
+  declarative   : His new book would have been being written by the young writer.
+  negative      : His new book would not have been being written by the young writer.
+  interrogative : Would his new book have been being written by the young writer?
+  imperative          : Be written by the young writer!
+  imperative_negative : Do not be written by the young writer!

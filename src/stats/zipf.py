@@ -1,5 +1,5 @@
 import math
-import os
+from pathlib import Path
 from collections import Counter
 import matplotlib.pyplot as plt
 import csv
@@ -49,9 +49,9 @@ def fit_zipf_power_law(word_freqs: list[tuple[int, str, int, float]]) -> dict[st
 
 
 def plot_zipf_distribution(word_freqs: list[tuple[int, str, int, float]], fit_metrics: dict[str, float],
-    output_path: str = "data/zipf_distribution.png",) -> None:
+    output_path: str = "results/zipf_distribution.png") -> None:
     """Generates and saves a log-log plot comparing empirical frequencies to Zipf's Law."""
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    Path(output_path).parent.mkdir(parents = True, exist_ok = True)
 
     ranks = [rank for rank, _, _, _ in word_freqs]
     counts = [count for _, _, count, _ in word_freqs]
@@ -84,7 +84,7 @@ def extract_core_vocabulary(word_freqs: list[tuple[int, str, int, float]], targe
     Finds the minimal set of top words that account for at least `target_coverage_pct`
     of the total corpus tokens and exports the table to a CSV file.
     """
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    Path(output_path).parent.mkdir(parents = True, exist_ok = True)
     total_words = sum(count for _, _, count, _ in word_freqs)
     if total_words == 0:
         return {"core_word_count": 0, "vocab_share_pct": 0.0, "actual_coverage_pct": 0.0}
@@ -96,7 +96,7 @@ def extract_core_vocabulary(word_freqs: list[tuple[int, str, int, float]], targe
         cumulative_count += count
         cumulative_pct = (cumulative_count / total_words) * 100.0
         core_words.append((rank, word, count, round(pct, 6), round(cumulative_pct, 6)))
-        if cumulative_pct > target_coverage_pct:
+        if cumulative_pct >= target_coverage_pct:
             break
 
     with open(output_path, "w", encoding="utf-8", newline="") as f:

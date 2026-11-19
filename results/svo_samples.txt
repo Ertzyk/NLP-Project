@@ -1,0 +1,34 @@
+=== DETERMINER & PRONOUN FEATURE SHOWCASE ===
+  Definite + Adj      : The famous chef prepares a warm meal.
+  Indefinite (an/a)   : An honest teacher carried a useful umbrella.
+  Possessive          : Our kind neighbor will repair their old bicycles.
+  Demonstrative (pl)  : These strong builders are building those wooden bridges.
+  Quantifier + Irreg  : Every baker polishes many sharp knives.
+  Pronoun Subj + Obj  : He had taken it.
+  Pronoun Passive     : It had been taken by him.
+  Intransitive        : The tired travelers have arrived.
+  Reflexive (NP)      : The brave soldiers would defend themselves.
+  Reflexive (Pronoun) : She did not blame herself.
+  Reflexive Imperative: Introduce yourself!
+
+=== RANDOM GENERATED SAMPLES (20) ===
+  01. [reflexive | active | future continuous | declarative] You will be defending yourselves.
+  02. [transitive | passive | imperative_negative] Do not be borrowed by you!
+  03. [reflexive | active | imperative_negative] Do not introduce yourself!
+  04. [intransitive | active | conditional simple | declarative] The quick runners would jump.
+  05. [transitive | active | future continuous | interrogative] Will my doctor be showing his common envelopes?
+  06. [intransitive | active | present continuous | declarative] She is hurrying.
+  07. [intransitive | active | imperative_negative] Do not listen!
+  08. [reflexive | active | present perfect_continuous | interrogative] Has your sad guest been forgiving herself?
+  09. [reflexive | active | imperative] Enjoy yourself!
+  10. [reflexive | active | past simple | declarative] You taught yourself.
+  11. [reflexive | active | imperative_negative] Do not praise yourselves!
+  12. [reflexive | active | future simple | interrogative] Will the singers challenge themselves?
+  13. [transitive | active | future continuous | declarative] They will be catching it.
+  14. [reflexive | active | imperative] Blame yourself!
+  15. [transitive | active | imperative] Replace any weak houses!
+  16. [reflexive | active | present continuous | declarative] I am teaching myself.
+  17. [reflexive | active | present simple | negative] You do not hurt yourselves.
+  18. [transitive | active | future simple | declarative] Its tired guards will find few rare statues.
+  19. [intransitive | active | imperative] Wait!
+  20. [transitive | active | present perfect_continuous | negative] She has not been opening it.
